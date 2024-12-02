@@ -1,0 +1,15 @@
+[build]
+  publish = "dist" # Adjust to your output folder for the built frontend
+  functions = "netlify/functions" # Path to your serverless functions
+
+ 
+
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/api"
+  to = "https://navyagundojuportfolio.netlify.app"
+  status = 200

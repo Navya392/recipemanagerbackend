@@ -1,0 +1,21 @@
+{
+	"siteId": "8a9b5c4b-2368-4ab0-985f-857e4a161dda",
+	"geolocation": {
+		"data": {
+			"city": "Windsor Locks",
+			"country": {
+				"code": "US",
+				"name": "United States"
+			},
+			"subdivision": {
+				"code": "CT",
+				"name": "Connecticut"
+			},
+			"timezone": "America/New_York",
+			"latitude": 41.9304,
+			"longitude": -72.6526,
+			"postalCode": "06096"
+		},
+		"timestamp": 1733166096811
+	}
+}
